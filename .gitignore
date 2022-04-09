@@ -1,3 +1,12 @@
+# creds and sample files
+*.stl
+*.drc
+*.obj
+*.off
+*.zip
+*.ply
+*.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
