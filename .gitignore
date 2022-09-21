@@ -6,6 +6,10 @@
 *.zip
 *.ply
 *.json
+*.gltf
+*.glb
+*.nrrd
+*.dcm
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
