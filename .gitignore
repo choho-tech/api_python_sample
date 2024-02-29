@@ -1,15 +1,6 @@
 # creds and sample files
-*.stl
-*.drc
-*.obj
-*.off
-*.zip
-*.ply
 *.json
-*.gltf
-*.glb
-*.nrrd
-*.dcm
+outputs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

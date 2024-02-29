@@ -1,0 +1,7 @@
+{
+    "user_group": "APIClient",
+    "user_id": "<Your user_id provided by us>",
+    "base_url": "<API server base_url provided by us>",
+    "file_server_url": "<File server file_server_url provided by us>",
+    "zh_token": "<Authorization token zh_token provided by us>"
+}
